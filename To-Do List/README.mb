@@ -1,0 +1,17 @@
+Simple To-Do List (python)
+This is a terminal-based to-do list aplication
+
+What does it do?
+- Add tasks
+- Show tasks
+- Delete a task
+- Delete all tasks
+
+
+I created this project while learning Python 
+and improved it ater joining Hack Club.
+
+I learned
+- Functions
+- File handling
+- loops and conditions
