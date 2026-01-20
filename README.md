@@ -9,9 +9,7 @@ A simple console-based To Do List app built with Python.
 - Delete tasks
 
 ## How to run
-1. Make sure Python is installed
-2. Run:
-   python main.py
+1. Run the main.exe in resources.
 
 ## Developer
 - Youssef Osama
